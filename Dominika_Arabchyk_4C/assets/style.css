@@ -73,6 +73,7 @@ p {
 .photo-container .photo {
   width: 100%;
   height: auto;
+  cursor: pointer;
 }
 .popup-wrapper {
   position: fixed;
@@ -96,8 +97,9 @@ p {
   padding: 20px;
   overflow: auto;
 }
+
 .popup img {
-  max-width: 95vw;
+   max-width: 95vw;
   max-height: 95vh;
 }
 .popup-wrapper.open {
