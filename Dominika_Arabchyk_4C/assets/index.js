@@ -2,7 +2,6 @@ const photos = [
   'assets/img/img_20230527_140040.jpg',
   'assets/img/img_20230527_140423.jpg',
   'assets/img/img_20230527_140814.jpg',
-  'assets/img/img_20230527_140835.jpg',
   'assets/img/img_20230527_141122.jpg',
   'assets/img/img_20230527_141335.jpg',
   'assets/img/img_20230527_141458.jpg',
